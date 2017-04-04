@@ -1,5 +1,8 @@
 # Table of contents
 
-* [About Bowfolios](#about-bowfolios)
+* [About Manoa Book Swap](#about-manoabookswap)
 * [Development history](#development-history)
 
+# about-manoabookswap
+
+# development-history
