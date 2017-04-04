@@ -3,7 +3,7 @@
 * [About Manoa Book Swap](#about-manoabookswap)
 * [Development history](#development-history)
 
-# About-ManoaBookSwap
+# About ManoaBookSwap
 
 ## Overview
 
@@ -38,4 +38,4 @@ Ability to add friends
 Messaging service
 Add location to search criteria
 
-# Development-History
+# Development History
