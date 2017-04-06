@@ -50,3 +50,5 @@ This [idea](https://russellomo.github.io/essays/final-project-idea.html) was gen
 (April 4, 2017 - April 13, 2017)
 
 The goal of this milestone was to create a mockup of the entire project. We would be using Meteor as a means of creating this. 
+
+Milestone 1 was implemented as [ManoaBookSwap GitHub Milestone M1]https://github.com/manoabookswap/manoabookswap/projects/1)
