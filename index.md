@@ -61,7 +61,7 @@ Milestone 1 was implemented as [ManoaBookSwap GitHub Milestone M1](https://githu
 
 ![Image](/screenshots/m1-issues.png)
 
-Milestone 1 consists of 10 issues, and progress is managed via the [ManoaBookSwap Github Project 1](https://github.com/manoabookswap/manoabookswap/projects/1):
+Milestone 1 consisted of 10 issues, and progress was managed via the [ManoaBookSwap Github Project 1](https://github.com/manoabookswap/manoabookswap/projects/1):
 
 ![Image](/screenshots/m1-progress.png)
 
@@ -102,6 +102,6 @@ Milestone 2 was implemented as [ManoaBookSwap Github Milestone M2](https://githu
 
 ![Image](/screenshots/m2-issues.png)
 
-Milestone 2 consists of 4 issues, and progress is managed via the [ManoaBookSwap Github Project 1](https://github.com/manoabookswap/manoabookswap/projects/2):
+Milestone 2 consists of 4 issues, and progress is managed via the [ManoaBookSwap Github Project 2](https://github.com/manoabookswap/manoabookswap/projects/2):
 
 ![Image](/screenshots/m2-progress.png)
