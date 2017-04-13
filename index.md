@@ -102,6 +102,6 @@ Milestone 2 was implemented as [ManoaBookSwap Github Milestone M2](https://githu
 
 ![Image](/screenshots/m2-issues.png)
 
-Milestone 2 consists of 4 issues, and progress is managed via the [ManoaBookSwap Github Project 2](https://github.com/manoabookswap/manoabookswap/projects/2):
+Milestone 2 consists of 8 issues, and progress is managed via the [ManoaBookSwap Github Project 2](https://github.com/manoabookswap/manoabookswap/projects/2):
 
 ![Image](/screenshots/m2-progress.png)
