@@ -63,3 +63,9 @@ Milestone 1 consists of 10 issues, and progress is managed via the [ManoaBookSwa
 ![Image](/screenshots/m1-progress.png)
 
 Each issue will be implemented in its own branch, then merged to master when completed.
+
+## Milestone 2 -
+
+(April 13, 2017 - April 25, 2017)
+
+Milestone 2 was implemented as [ManoaBookSwap Github Milestone M2](https://github.com/manoabookswap/manoabookswap/projects/2)
