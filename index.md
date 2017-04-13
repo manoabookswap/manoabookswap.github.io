@@ -96,7 +96,7 @@ Each issue was implemented in its own branch, then merged to master when complet
 
 (April 13, 2017 - April 25, 2017)
 
-The goal of Milestone 2 is to implement the data models for the profile and books collection, along with the addition of class listings and a general UI overhaul. The data model will be implemented as a set of Javascript classes. Overall, our application will have some functionality to its pages that the user can interact with.
+The goal of Milestone 2 is to implement the data models for the profile and books collection, along with the addition of class listings, a general UI overhaul, and overall functionality. The data model will be implemented as a set of Javascript classes. Overall, our application will have some functionality to its pages that the user can interact with.
 
 Milestone 2 was implemented as [ManoaBookSwap Github Milestone M2](https://github.com/manoabookswap/manoabookswap/issues)
 
