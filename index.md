@@ -29,7 +29,7 @@ Users create profiles which show their major and courses taken. These profiles w
 
 ## Use Case Ideas
 
-- The user is directed to landing page to sign up/login. Once they are authenticated, they will be taken to the home page. 
+- The user is directed to landing page to sign up/login. Once they are authenticated, they will be taken to the home page.
 - User then may go to the search page to enter in search criteria. Listings will appear on the page based on that criteria.
 - On search results page, users can accept listings and set up a meeting time and location with the seller.
 - After the user holding the listing has completed transaction, they can mark their listing as complete.
@@ -55,7 +55,7 @@ This [idea](https://russellomo.github.io/essays/final-project-idea.html) was gen
 
 (April 4, 2017 - April 13, 2017)
 
-The goal of this milestone was to create a mockup of the entire project. We would be using Meteor as a means of creating this. 
+The goal of this milestone was to create a mockup of the entire project. We would be using Meteor as a means of creating this.
 
 Milestone 1 was implemented as [ManoaBookSwap GitHub Milestone M1](https://github.com/manoabookswap/manoabookswap/issues):
 
@@ -65,7 +65,32 @@ Milestone 1 consists of 10 issues, and progress is managed via the [ManoaBookSwa
 
 ![Image](/screenshots/m1-progress.png)
 
-Each issue will be implemented in its own branch, then merged to master when completed.
+### Landing Page
+![Image](/screenshots/m1-landing-page.png)
+
+### Home Page
+![Image](/screenshots/m1-home-page.png)
+
+### Profile Page
+![Image](/screenshots/m1-profile-page.png)
+
+### Filter Page
+![Image](/screenshots/m1-filter-page.png)
+
+### Sell Page
+![Image](/screenshots/m1-sell-page.png)
+
+### FAQ Page
+![Image](/screenshots/m1-faq-page.png)
+
+### Contact Us Page
+![Image](/screenshots/m1-contact-us.page.png)
+
+Each issue was implemented in its own branch, then merged to master when completed:
+
+![Image](/screenshots/m1-network.page.png)
+
+
 
 ## Milestone 2 -
 
