@@ -84,11 +84,11 @@ Milestone 1 consists of 10 issues, and progress is managed via the [ManoaBookSwa
 ![Image](/screenshots/m1-faq-page.png)
 
 ### Contact Us Page
-![Image](/screenshots/m1-contact-us.page.png)
+![Image](/screenshots/m1-contact-us-page.png)
 
 Each issue was implemented in its own branch, then merged to master when completed:
 
-![Image](/screenshots/m1-network.page.png)
+![Image](/screenshots/m1-network.png)
 
 
 
