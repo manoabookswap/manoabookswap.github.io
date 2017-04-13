@@ -92,7 +92,7 @@ Each issue was implemented in its own branch, then merged to master when complet
 
 
 
-## Milestone 2 -
+## Milestone 2 - Data model development
 
 (April 13, 2017 - April 25, 2017)
 
