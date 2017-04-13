@@ -38,7 +38,7 @@ Users create profiles which show their major and courses taken. These profiles w
 
 ## Beyond the Basics
 
-- Link up to class infomation sites which show required texts.
+- Link up to class information sites which show required texts.
 - Rating system for books and other users
 - Ability to customize profile and add friends
 - Messaging service within the application
@@ -96,4 +96,12 @@ Each issue was implemented in its own branch, then merged to master when complet
 
 (April 13, 2017 - April 25, 2017)
 
-Milestone 2 was implemented as [ManoaBookSwap Github Milestone M2](https://github.com/manoabookswap/manoabookswap/projects/2)
+The goal of Milestone 2 is to implement the data models for the profile and books collection, along with the addition of class listings and a general UI overhaul. The data model will be implemented as a set of Javascript classes. Overall, our application will have some functionality to its pages that the user can interact with.
+
+Milestone 2 was implemented as [ManoaBookSwap Github Milestone M2](https://github.com/manoabookswap/manoabookswap/issues)
+
+![Image](/screenshots/m2-issues.png)
+
+Milestone 2 consists of 4 issues, and progress is managed via the [ManoaBookSwap Github Project 1](https://github.com/manoabookswap/manoabookswap/projects/2):
+
+![Image](/screenshots/m2-progress.png)
