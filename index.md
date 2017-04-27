@@ -266,7 +266,7 @@ Milestone 1 was implemented as [ManoaBookSwap GitHub Milestone M1](https://githu
 
 <img width="500px" src="/screenshots/m1-issues.png"/>
 
-Milestone 1 consisted of 10 issues, and progress was managed via the [ManoaBookSwap Github Project 1](https://github.com/manoabookswap/manoabookswap/projects/1):
+Milestone 1 consisted of 8 issues, and progress was managed via the [ManoaBookSwap Github Project 1](https://github.com/manoabookswap/manoabookswap/projects/1):
 
 <img width="500px" src="/screenshots/m1-progress.png"/>
 
