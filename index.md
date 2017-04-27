@@ -40,13 +40,25 @@ This [idea](https://russellomo.github.io/essays/final-project-idea.html) was gen
 
 ## Walkthrough
 
-When you come to the site, you will be first greeted with our landing page. 
+When you come to the site, you will be first greeted with our landing page:
 
 ![](screenshots/current-landing.png)
 
 In order to utilize this service you must have a UH account. Upon clicking the login button, the UH CAS authentication screen appears and requests your UH account and password:
 
 ![](screenshots/current-cas.png)
+
+After being authenticated, you are greeted with your hompage, where you can find links to everything on this site:
+
+![](screenshots/current-home-page.png)
+
+In order to sell one of your textbooks you simply proceed to the sell page:
+
+![](screenshots/current-sell-page.png)
+
+To find a book you look no further than our filter page:
+
+![](screenshots/current-filter-page.png)
 
 # Installation
 
