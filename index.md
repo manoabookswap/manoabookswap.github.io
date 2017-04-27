@@ -301,18 +301,23 @@ Each issue was implemented in its own branch, then merged to master when complet
 
 The goal of Milestone 2 is to implement the data models for the profile and books collection, along with the addition of class listings, a general UI overhaul, and overall functionality. The data model will be implemented as a set of Javascript classes. Overall, our application will have some functionality to its pages that the user can interact with.
 
-Milestone 2 was implemented as [ManoaBookSwap Github Milestone M2](https://github.com/manoabookswap/manoabookswap/issues)
+Milestone 2 was implemented as [ManoaBookSwap Github Milestone M2](https://github.com/manoabookswap/manoabookswap/milestone/2):
 
-![Image](/screenshots/m2-issues.png)
-
-Milestone 2 consists of 8 issues, and progress is managed via the [ManoaBookSwap Github Project 2](https://github.com/manoabookswap/manoabookswap/projects/2):
+Milestone 2 consisted of 8 issues, and progress is managed via the [ManoaBookSwap Github Project 2](https://github.com/manoabookswap/manoabookswap/projects/2):
 
 ![Image](/screenshots/m2-progress.png)
 
 Each issue was implemented in its own branch, then merged to master when completed:
 
-<img width="500px" src="/screenshots/m2-network.png"/>
+![Image](/screenshots/m2-network.png)
 
 ## Milestone 3 - Testing and Feedback
 
 (April 27, 2017 - May 9, 2017)
+
+The goal of Milestone 3 is to implement the rest of the functionality that we were unable to implement in Milestone 2. We also will be beginning our testing and recieving feedback from users.
+
+Milestone 3 was immplemented as [ManoaBookSwap Github Milestone M3](https://github.com/manoabookswap/manoabookswap/milestone/3)
+
+Milestone 3 consists of 8 issues, and progress is managed via the [ManoaBookSwap Github Project 3](https://github.com/manoabookswap/manoabookswap/projects/3):
+
