@@ -42,11 +42,11 @@ This [idea](https://russellomo.github.io/essays/final-project-idea.html) was gen
 
 When you come to the site, you will be first greeted with our landing page. 
 
-![](images/current-landing.png)
+![](screenshots/current-landing.png)
 
 In order to utilize this service you must have a UH account. Upon clicking the login button, the UH CAS authentication screen appears and requests your UH account and password:
 
-![](images/current-cas.png)
+![](screenshots/current-cas.png)
 
 # Installation
 
