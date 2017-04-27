@@ -68,38 +68,36 @@ The goal of this milestone was to create a mockup of the entire project. We woul
 
 Milestone 1 was implemented as [ManoaBookSwap GitHub Milestone M1](https://github.com/manoabookswap/manoabookswap/issues):
 
-![Image](/screenshots/m1-issues.png)
+<img width="500px" src="/screenshots/m1-issues.png"/>
 
 Milestone 1 consisted of 10 issues, and progress was managed via the [ManoaBookSwap Github Project 1](https://github.com/manoabookswap/manoabookswap/projects/1):
 
-![Image](/screenshots/m1-progress.png)
+<img width="500px" src="/screenshots/m1-progress.png"/>
 
 ### Landing Page
-![Image](/screenshots/m1-landing-page.png)
+<img width="500px" src="/screenshots/m1-landing-page.png"/>
 
 ### Home Page
-![Image](/screenshots/m1-home-page.png)
+<img width="500px" src="/screenshots/m1-home-page.png"/>
 
 ### Profile Page
-![Image](/screenshots/m1-profile-page.png)
+<img width="500px" src="/screenshots/m1-profile-page.png"/>
 
 ### Filter Page
-![Image](/screenshots/m1-filter-page.png)
+<img width="500px" src="/screenshots/m1-filter-page.png"/>
 
 ### Sell Page
-![Image](/screenshots/m1-sell-page.png)
+<img width="500px" src="/screenshots/m1-sell-page.png"/>
 
 ### FAQ Page
-![Image](/screenshots/m1-faq-page.png)
+<img width="500px" src="/screenshots/m1-faq-page.png"/>
 
 ### Contact Us Page
-![Image](/screenshots/m1-contact-us-page.png)
+<img width="500px" src="/screenshots/m1-contact-us-page.png"/>
 
 Each issue was implemented in its own branch, then merged to master when completed:
 
-![Image](/screenshots/m1-network.png)
-
-
+<img width="500px" src="/screenshots/m1-network.png"/>
 
 ## Milestone 2 - Data Model Development
 
