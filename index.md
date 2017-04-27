@@ -262,7 +262,7 @@ It's significantly easier to do development with ESLint integrated directly into
 
 The goal of this milestone was to create a mockup of the entire project. We would be using Meteor as a means of creating this.
 
-Milestone 1 was implemented as [ManoaBookSwap GitHub Milestone M1](https://github.com/manoabookswap/manoabookswap/issues):
+Milestone 1 was implemented as [ManoaBookSwap GitHub Milestone M1](https://github.com/manoabookswap/manoabookswap/milestone/1):
 
 <img width="500px" src="/screenshots/m1-issues.png"/>
 
