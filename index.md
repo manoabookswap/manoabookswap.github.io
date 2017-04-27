@@ -4,10 +4,16 @@
 # Table of contents
 
 * [About Manoa Book Swap](#about-manoabookswap)
+ * [Overview](#overview)
  * [Mockup Page Ideas](#mockup-page-ideas)
-* [Application Design](#)
+ * [Use Case Ideas](#use-case-ideas)
+ * [Beyond the Basics](#beyond-the-basics)
+ * [Credits](#credits)
+* [Application Design](#application-design)
 * [Development history](#development-history)
   * [Milestone 1](#milestone-1---mockup-development)
+  * [Milestone 2](#milestone-2---data-model-development)
+  * [Milestone 3](#milestone-3---testing-and-feedback)
 
 
 # About ManoaBookSwap
@@ -55,7 +61,7 @@ This [idea](https://russellomo.github.io/essays/final-project-idea.html) was gen
 
 # Development History
 
-## Milestone 1 - Mockup development
+## Milestone 1 - Mockup Development
 
 (April 4, 2017 - April 13, 2017)
 
@@ -96,9 +102,9 @@ Each issue was implemented in its own branch, then merged to master when complet
 
 
 
-## Milestone 2 - Data model development
+## Milestone 2 - Data Model Development
 
-(April 13, 2017 - April 25, 2017)
+(April 13, 2017 - April 27, 2017)
 
 The goal of Milestone 2 is to implement the data models for the profile and books collection, along with the addition of class listings, a general UI overhaul, and overall functionality. The data model will be implemented as a set of Javascript classes. Overall, our application will have some functionality to its pages that the user can interact with.
 
@@ -109,3 +115,7 @@ Milestone 2 was implemented as [ManoaBookSwap Github Milestone M2](https://githu
 Milestone 2 consists of 8 issues, and progress is managed via the [ManoaBookSwap Github Project 2](https://github.com/manoabookswap/manoabookswap/projects/2):
 
 ![Image](/screenshots/m2-progress.png)
+
+## Milestone 3 - Testing and Feedback
+
+(April 27, 2017 - May 9, 2017)
