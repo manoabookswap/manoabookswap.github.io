@@ -4,7 +4,10 @@
 # Table of contents
 
 * [About Manoa Book Swap](#about-manoabookswap)
+* [Application Design](#)
 * [Development history](#development-history)
+  * [Milestone 1](#milestone-1)
+
 
 # About ManoaBookSwap
 
