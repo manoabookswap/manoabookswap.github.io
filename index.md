@@ -5,6 +5,7 @@
 
 * [About Manoa Book Swap](#about-manoabookswap)
   * [Overview](#overview)
+  * [Walkthrough](#walkthrough)
 * [Installation](#installation)
 * [Application Design](#application-design)
 * [Directory structure](#directory-structure)
