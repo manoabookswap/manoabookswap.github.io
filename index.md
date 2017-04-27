@@ -4,11 +4,11 @@
 # Table of contents
 
 * [About Manoa Book Swap](#about-manoabookswap)
- * [Overview](#overview)
- * [Mockup Page Ideas](#mockup-page-ideas)
- * [Use Case Ideas](#use-case-ideas)
- * [Beyond the Basics](#beyond-the-basics)
- * [Credits](#credits)
+  * [Overview](#overview)
+  * [Mockup Page Ideas](#mockup-page-ideas)
+  * [Use Case Ideas](#use-case-ideas)
+  * [Beyond the Basics](#beyond-the-basics)
+    * [Credits](#credits)
 * [Application Design](#application-design)
 * [Development history](#development-history)
   * [Milestone 1](#milestone-1---mockup-development)
