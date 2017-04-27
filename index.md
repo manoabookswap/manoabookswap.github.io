@@ -113,6 +113,10 @@ Milestone 2 consists of 8 issues, and progress is managed via the [ManoaBookSwap
 
 ![Image](/screenshots/m2-progress.png)
 
+Each issue was implemented in its own branch, then merged to master when completed:
+
+<img width="500px" src="/screenshots/m2-network.png"/>
+
 ## Milestone 3 - Testing and Feedback
 
 (April 27, 2017 - May 9, 2017)
