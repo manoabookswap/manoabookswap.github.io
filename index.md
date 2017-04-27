@@ -303,7 +303,7 @@ The goal of Milestone 2 is to implement the data models for the profile and book
 
 Milestone 2 was implemented as [ManoaBookSwap Github Milestone M2](https://github.com/manoabookswap/manoabookswap/milestone/2):
 
-Milestone 2 consisted of 8 issues, and progress is managed via the [ManoaBookSwap Github Project 2](https://github.com/manoabookswap/manoabookswap/projects/2):
+Milestone 2 consists of 7 issues, and progress is managed via the [ManoaBookSwap Github Project 2](https://github.com/manoabookswap/manoabookswap/projects/2):
 
 ![Image](/screenshots/m2-progress.png)
 
