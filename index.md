@@ -4,6 +4,7 @@
 # Table of contents
 
 * [About Manoa Book Swap](#about-manoabookswap)
+ * [Mockup Page Ideas](#mockup-page-ideas)
 * [Application Design](#)
 * [Development history](#development-history)
   * [Milestone 1](#milestone-1)
@@ -19,7 +20,7 @@ The solution: Manoa Book Swap is a meteor application that provides a means for 
 
 Users create profiles which show their major and courses taken. These profiles will allow users to have listings of books they are willing to sell as well as listings they may be interested in. When two users have met each others requirements, the buyer can accept the listing and the user holding the listing can schedule a meet up time and location for the transaction.
 
-##  Mockup Page Ideas
+## Mockup Page Ideas
 
 - A landing page which gives a brief description of the application and allows for new users to create a profile and returning users to login
 - A home page which shows the main menu and some listings
