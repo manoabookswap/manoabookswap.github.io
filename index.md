@@ -296,3 +296,22 @@ Milestone 3 is implemented as [ManoaBookSwap Github Milestone M3](https://github
 Milestone 3 consists of 8 issues, and progress is managed via the [ManoaBookSwap Github Project 3](https://github.com/manoabookswap/manoabookswap/projects/3):
 
 ![Image](/screenshots/m3-progress-2.png)
+
+Each issue was implemented in its own branch, then merged to master when completed:
+
+![Image](/screenshots/m3-network.png)
+
+## Milestone 4 - Post
+
+(May 9, 2017 - Onwards)
+
+The goal of Milestone 4 is to finish all remaining issues and offer a fully functional site. We hope to be able to implement all of the feedback that we recieved from the last milestone. 
+
+Milestone 3 is implemented as [ManoaBookSwap Github Milestone M4](https://github.com/manoabookswap/manoabookswap/milestone/4):
+
+![Image](/screenshots/m4-issues.png)
+
+Milestone 3 consists of 8 issues, and progress is managed via the [ManoaBookSwap Github Project 3](https://github.com/manoabookswap/manoabookswap/projects/4):
+
+![Image](/screenshots/m4-progress.png)
+
