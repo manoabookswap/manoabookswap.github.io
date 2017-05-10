@@ -294,7 +294,7 @@ Milestone 3 is implemented as [ManoaBookSwap Github Milestone M3](https://github
 
 ![Image](/screenshots/m3-issues.png)
 
-Milestone 3 consists of 8 issues, and progress is managed via the [ManoaBookSwap Github Project 3](https://github.com/manoabookswap/manoabookswap/projects/3):
+Milestone 3 consists of 10 issues, and progress is managed via the [ManoaBookSwap Github Project 3](https://github.com/manoabookswap/manoabookswap/projects/3):
 
 ![Image](/screenshots/m3-progress-2.png)
 
@@ -312,7 +312,7 @@ Milestone 3 is implemented as [ManoaBookSwap Github Milestone M4](https://github
 
 ![Image](/screenshots/m4-issues.png)
 
-Milestone 3 consists of 8 issues, and progress is managed via the [ManoaBookSwap Github Project 3](https://github.com/manoabookswap/manoabookswap/projects/4):
+Milestone 4 consists of 4 issues, and progress is managed via the [ManoaBookSwap Github Project 4](https://github.com/manoabookswap/manoabookswap/projects/4):
 
 ![Image](/screenshots/m4-progress.png)
 
