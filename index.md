@@ -23,7 +23,8 @@
   * [Milestone 1](#milestone-1---mockup-development)
   * [Milestone 2](#milestone-2---data-model-development)
   * [Milestone 3](#milestone-3---testing-and-feedback)
-
+  * [Milestone 4](#milestone-4---post)
+  
 
 # About ManoaBookSwap
 
