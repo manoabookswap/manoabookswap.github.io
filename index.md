@@ -56,11 +56,11 @@ After being authenticated, you are greeted with your hompage, where you can find
 
 In order to sell one of your textbooks you simply proceed to the sell page:
 
-![](screenshots/current-sell-page.png)
+![](screenshots/current-sell.png)
 
 To find a book you look no further than our filter page:
 
-![](screenshots/current-filter-page.png)
+![](screenshots/current-filter.png)
 
 # Installation
 
