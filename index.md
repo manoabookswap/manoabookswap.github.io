@@ -235,7 +235,7 @@ ESLint should run without generating any errors.
 
 The goal of this milestone was to create a mockup of the entire project. We would be using Meteor as a means of creating this.
 
-Milestone 1 was implemented as [ManoaBookSwap GitHub Milestone M1](https://github.com/manoabookswap/manoabookswap/milestone/1):
+Milestone 1 was implemented as [ManoaBookSwap GitHub Milestone M1](https://github.com/manoabookswap/manoabookswap/milestone/1?closed=1):
 
 <img width="500px" src="/screenshots/m1-issues.png"/>
 
@@ -274,7 +274,7 @@ Each issue was implemented in its own branch, then merged to master when complet
 
 The goal of Milestone 2 was to implement the data models for the profile and books collection, along with the addition of class listings, a general UI overhaul, and overall functionality. The data model will be implemented as a set of Javascript classes. Form submission along with database interaction were be given to our pages. Overall, our application now has some functionality to its pages that the user can interact with.
 
-Milestone 2 was implemented as [ManoaBookSwap Github Milestone M2](https://github.com/manoabookswap/manoabookswap/milestone/2):
+Milestone 2 was implemented as [ManoaBookSwap Github Milestone M2](https://github.com/manoabookswap/manoabookswap/milestone/2?closed=1):
 
 Milestone 2 consisted of 7 issues, and progress was managed via the [ManoaBookSwap Github Project 2](https://github.com/manoabookswap/manoabookswap/projects/2):
 
@@ -290,7 +290,7 @@ Each issue was implemented in its own branch, then merged to master when complet
 
 The goal of Milestone 3 is to implement the rest of the functionality that we were unable to implement in Milestone 2. We also will be beginning our testing and receiving feedback from users.
 
-Milestone 3 is implemented as [ManoaBookSwap Github Milestone M3](https://github.com/manoabookswap/manoabookswap/milestone/3):
+Milestone 3 is implemented as [ManoaBookSwap Github Milestone M3](https://github.com/manoabookswap/manoabookswap/milestone/3?closed=1):
 
 ![Image](/screenshots/m3-issues.png)
 
