@@ -62,6 +62,10 @@ To find a book you look no further than our filter page:
 
 ![](screenshots/current-filter.png)
 
+Click on the title of a book to be directed to a full description page, including the seller's contact information:
+
+![](screenshots/current-description-page.png)
+
 # Installation
 
 First, [install Meteor](https://www.meteor.com/install).
