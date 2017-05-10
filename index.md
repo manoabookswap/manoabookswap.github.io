@@ -308,7 +308,7 @@ Each issue was implemented in its own branch, then merged to master when complet
 
 The goal of Milestone 4 is to finish all remaining issues and offer a fully functional site. We hope to be able to implement all of the feedback that we recieved from the last milestone. 
 
-Milestone 3 is implemented as [ManoaBookSwap Github Milestone M4](https://github.com/manoabookswap/manoabookswap/milestone/4):
+Milestone 4 is implemented as [ManoaBookSwap Github Milestone M4](https://github.com/manoabookswap/manoabookswap/milestone/4):
 
 ![Image](/screenshots/m4-issues.png)
 
